@@ -1,1 +1,3 @@
 Hello from SmartAcademy!
+
+Bye, bye!
